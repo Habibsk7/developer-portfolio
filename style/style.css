@@ -10,6 +10,7 @@ nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    margin: 0 200px;
 }
 
 .logo {
@@ -46,5 +47,22 @@ nav ul li a{
     font-size: 20px;
     font-style: normal;
     font-weight: 700;
-    padding: 18px 35px;
+    padding: 15px 25px;
+}
+
+/* header related style */
+.header{
+
+    background-color: #FFF8F3;
+    
+}
+
+.banner{
+    display: flex;
+    align-items: center;
+}
+
+.banner .profile-pic{
+    width: 500px;
+    height: 600px;
 }
