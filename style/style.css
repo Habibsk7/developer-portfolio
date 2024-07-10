@@ -23,7 +23,7 @@ nav{
 }
 
 .logo {
-    
+    font-size: 30px;
     font-weight: 800;   
 }
 
@@ -147,6 +147,22 @@ footer{
     display: flex;
     background-color: #FFF8F3;
     padding:110px 220px ;
+    gap: 100px;
     
+
+}
+
+.footer-column{
+    width: 50%;
+    
+}
+.contact input[type="text"], [type="text"], [type="email"], textarea
+{
+    display: block;
+    padding: 10px 35px;
+    margin: 10px;
+    border-radius: 5px;
+    width: 100%;
+    border: 0;
 
 }
