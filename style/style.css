@@ -109,7 +109,7 @@ nav ul li a{
 }
 
 #what-i-do-description{
-    padding: 30px 150px;
+    padding: 30px 220px;
 }
 .skill-container{
     display: flex;
@@ -119,5 +119,20 @@ nav ul li a{
 }
 .skill {
     margin: 10px;
+    gap: 24px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #fff;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.09);
 
+}
+/* resume section */
+.resume-column-title{
+    color: #474747;
+    font-size: 30px;
+    font-weight: 700;
+
+}
+.resume-container{
+    dsplay: flex;
 }
