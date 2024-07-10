@@ -134,5 +134,11 @@ nav ul li a{
 
 }
 .resume-container{
-    dsplay: flex;
+    display: flex;
+    gap: 50px;
+    padding: 30px 150px;
+}
+.download-cv{
+    text-align: center;
+    margin: 30px 0;
 }
