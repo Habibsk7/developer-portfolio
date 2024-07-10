@@ -8,6 +8,7 @@
 .section-title{
     text-align: center;
     font-size: 45px;
+    font-weight: 700;
 
 }
 .section-description{
@@ -104,5 +105,19 @@ nav ul li a{
 }
 .about-info{
     text-align: center;
-    
+
+}
+
+#what-i-do-description{
+    padding: 30px 150px;
+}
+.skill-container{
+    display: flex;
+    max-width: 80%;
+    margin: 10px auto;
+
+}
+.skill {
+    margin: 10px;
+
 }
